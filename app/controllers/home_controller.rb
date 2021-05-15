@@ -3,7 +3,7 @@ class HomeController < ApplicationController
         Rails.logger.info("something is fishy")
     end
 
-    def mabuchi
+    def call_action
         GenerateSomethingJob.perform_later
     end
     

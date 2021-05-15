@@ -5,7 +5,7 @@ Rails.application.routes.draw do
   get "/home", to: "home#index"
   resources :home do
     collection do
-      get :mabuchi
+      get :call_action
     end
   end
 end
