@@ -12,6 +12,7 @@ module MyTest
     config.load_defaults 5.2
     
     Rails.logger = Logger.new(STDOUT)
+    Rails.logger.level = Logger::DEBUG
     config.logger = ActiveSupport::Logger.new("log/jbc.log")
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration can go into files in config/initializers
