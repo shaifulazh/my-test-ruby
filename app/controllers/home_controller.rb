@@ -3,7 +3,7 @@ class HomeController < ApplicationController
         Rails.logger.info("something is fishy")
     end
 
-    def def new
+    def new
         GenerateSomethingJob.perform_later
     end
     
