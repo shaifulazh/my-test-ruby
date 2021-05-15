@@ -10,10 +10,6 @@ module MyTest
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 5.2
-    
-    Rails.logger = Logger.new(STDOUT)
-    Rails.logger.level = Logger::DEBUG
-    config.logger = ActiveSupport::Logger.new("log/jbc.log")
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration can go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded after loading
