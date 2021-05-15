@@ -1,0 +1,5 @@
+generate_somthing:
+  cron: "*/1 * * * *"
+  class: "GenerateSomethingJob"
+  queue: default
+
