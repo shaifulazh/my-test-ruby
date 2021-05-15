@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   require 'sidekiq/web'
   mount Sidekiq::Web=> '/sidekiq'
   get "/home", to: "home#index"
-  resources :mabuchi do
+  resources :home do
     collection do
       get :mabuchi
     end
