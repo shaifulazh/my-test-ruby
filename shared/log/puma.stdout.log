@@ -1,0 +1,52 @@
+=== puma startup: 2021-05-15 13:07:50 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2021-05-15 13:08:14 +0000 ===
+- Goodbye!
+=== puma startup: 2021-05-15 13:10:00 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2021-05-15 13:10:24 +0000 ===
+- Goodbye!
+=== puma startup: 2021-05-15 13:10:48 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2021-05-15 13:11:00 +0000 ===
+- Goodbye!
+=== puma startup: 2021-05-15 13:11:07 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2021-05-15 13:11:18 +0000 ===
+- Goodbye!
+Exiting
+=== puma startup: 2021-05-15 13:21:39 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2021-05-15 13:22:07 +0000 ===
+- Goodbye!
+Exiting
+=== puma startup: 2021-05-15 13:23:06 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2021-05-15 13:23:19 +0000 ===
+- Goodbye!
+Exiting
+=== puma startup: 2021-05-15 13:23:25 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2021-05-15 13:23:45 +0000 ===
+- Goodbye!
+=== puma startup: 2021-05-15 13:27:55 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2021-05-15 13:29:52 +0000 ===
+- Goodbye!
+=== puma startup: 2021-05-15 13:31:46 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2021-05-15 13:32:15 +0000 ===
+- Goodbye!
+=== puma startup: 2021-05-15 13:33:02 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2021-05-15 13:33:13 +0000 ===
+- Goodbye!
+=== puma startup: 2021-05-15 13:36:20 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2021-05-15 13:36:23 +0000 ===
+- Goodbye!
+=== puma startup: 2021-05-15 13:41:41 +0000 ===
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2021-05-15 14:41:13 +0000 ===
+- Goodbye!
+=== puma startup: 2021-05-15 14:43:22 +0000 ===

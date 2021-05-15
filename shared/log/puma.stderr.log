@@ -1,0 +1,29 @@
+=== puma startup: 2021-05-15 13:07:50 +0000 ===
+=== puma startup: 2021-05-15 13:10:00 +0000 ===
+=== puma startup: 2021-05-15 13:10:48 +0000 ===
+=== puma startup: 2021-05-15 13:11:07 +0000 ===
+=== puma startup: 2021-05-15 13:21:39 +0000 ===
+=== puma startup: 2021-05-15 13:23:06 +0000 ===
+=== puma startup: 2021-05-15 13:23:25 +0000 ===
+=== puma startup: 2021-05-15 13:27:55 +0000 ===
+=== puma startup: 2021-05-15 13:31:46 +0000 ===
+/var/lib/gems/2.7.0/gems/activesupport-5.2.6/lib/active_support/messages/rotator.rb:28: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/var/lib/gems/2.7.0/gems/activesupport-5.2.6/lib/active_support/messages/rotator.rb:6: warning: The called method `initialize' is defined here
+/var/lib/gems/2.7.0/gems/actionview-5.2.6/lib/action_view/view_paths.rb:11: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/var/lib/gems/2.7.0/gems/actionview-5.2.6/lib/action_view/lookup_context.rb:128: warning: The called method `template_exists?' is defined here
+=== puma startup: 2021-05-15 13:33:02 +0000 ===
+/var/lib/gems/2.7.0/gems/activesupport-5.2.6/lib/active_support/messages/rotator.rb:28: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/var/lib/gems/2.7.0/gems/activesupport-5.2.6/lib/active_support/messages/rotator.rb:6: warning: The called method `initialize' is defined here
+/var/lib/gems/2.7.0/gems/actionview-5.2.6/lib/action_view/view_paths.rb:11: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/var/lib/gems/2.7.0/gems/actionview-5.2.6/lib/action_view/lookup_context.rb:128: warning: The called method `template_exists?' is defined here
+=== puma startup: 2021-05-15 13:36:20 +0000 ===
+=== puma startup: 2021-05-15 13:41:41 +0000 ===
+/var/lib/gems/2.7.0/gems/activesupport-5.2.6/lib/active_support/messages/rotator.rb:28: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/var/lib/gems/2.7.0/gems/activesupport-5.2.6/lib/active_support/messages/rotator.rb:6: warning: The called method `initialize' is defined here
+/var/lib/gems/2.7.0/gems/actionview-5.2.6/lib/action_view/view_paths.rb:11: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/var/lib/gems/2.7.0/gems/actionview-5.2.6/lib/action_view/lookup_context.rb:128: warning: The called method `template_exists?' is defined here
+=== puma startup: 2021-05-15 14:43:22 +0000 ===
+/var/lib/gems/2.7.0/gems/activesupport-5.2.6/lib/active_support/messages/rotator.rb:28: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/var/lib/gems/2.7.0/gems/activesupport-5.2.6/lib/active_support/messages/rotator.rb:6: warning: The called method `initialize' is defined here
+/var/lib/gems/2.7.0/gems/actionview-5.2.6/lib/action_view/view_paths.rb:11: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call
+/var/lib/gems/2.7.0/gems/actionview-5.2.6/lib/action_view/lookup_context.rb:128: warning: The called method `template_exists?' is defined here
