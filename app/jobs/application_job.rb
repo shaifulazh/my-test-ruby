@@ -3,5 +3,5 @@ class ApplicationJob < ActiveJob::Base
 
     def perform()
         print ("sdfasdfasf")
-
+    end
 end
