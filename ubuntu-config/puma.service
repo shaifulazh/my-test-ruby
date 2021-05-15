@@ -1,0 +1,14 @@
+[Unit]
+Description=Puma HTTP Server
+After=network.target
+[Service]
+Type=simple
+User=shaiful
+WorkingDirectory=/home/shaiful/glorius
+Environment=RAILS_ENV=development
+ExecStart=/usr/local/bin/bundle exec puma -C config/puma.rb
+
+Restart=always
+KillMode=process
+[Install]
+WantedBy=multi-user.target
